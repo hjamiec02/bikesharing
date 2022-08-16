@@ -1,5 +1,7 @@
 # bikesharing
 
+Tableau Public link: [link to dashboard](https://public.tableau.com/app/profile/jamie2891/viz/Citibikechallengemodule/CitiBike?publish=yes)
+
 ## Overview of the statistical analysis:
 
 For this analysis, I began by using data provided by Citi Bike for New York City Rentals during the month of August 2019. I uploaded the data into Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations to:
